@@ -15,13 +15,23 @@ predicting whether a given tweet is about a real disaster or not a disaster. we 
 ## List of steps:
 
 1. Probabilities and Zipf's Law 
+
     a) Rank, Frequency, and Probability distribution 
+    
     b) Probability vs. Rank Plot 
-    c) Regression line fit     
+    
+    c) Regression line fit    
+    
 2. Text Vectorization
+
 3. Terms and Conditional Probabilities distribution 
+
 4. Classification
+
    a) Probabilistic Naive Bayes Model
+   
    b) Linear Model
+   
    c) Non-linear Classification
+   
 5. Conlcusions
